@@ -1,0 +1,4 @@
+{
+    "version":["1.0.0","2.0.0","3.0.0"],
+    "files":["https://solarnative.github.io/OTA/f100.bin","https://solarnative.github.io/OTA/f200.bin","https://solarnative.github.io/OTA/f300.bin"]
+}
